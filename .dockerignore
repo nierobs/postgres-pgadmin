@@ -1,0 +1,7 @@
+.git/
+data/
+.env
+.gitignore
+README.md
+compose.yaml
+init.sql
