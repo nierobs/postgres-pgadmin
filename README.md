@@ -1,7 +1,7 @@
 # PostgreSQL and pgAdmin with Docker Compose
 
-Robson Niemeyer  
-[https://github.com/nierobs/postgres-pgadmin](https://github.com/nierobs/postgres-pgadmin)
+**Author:** Robson Niemeyer  
+**Repository:** [https://github.com/nierobs/postgres-pgadmin](https://github.com/nierobs/postgres-pgadmin)
 
 ## Directory structure
 
@@ -19,7 +19,7 @@ Robson Niemeyer
 ### 1. Before building the containers
 
 ```bash
-$ mkdir -p data/{pgadmin,postgres}
+$ mkdir -p data/{pgadmin,postgres}/
 $ sudo chown -R 5050:5050 ./data/pgadmin/
 ```
 
