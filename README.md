@@ -19,8 +19,8 @@
 ### 1. Before building the containers
 
 ```bash
-$ mkdir -p data/{pgadmin,postgres}/
-$ sudo chown -R 5050:5050 ./data/pgadmin/
+$ mkdir -p data/{pgadmin,postgres}
+$ sudo chown -R 5050:5050 ./data/pgadmin
 ```
 
 ### 2. Build and start containers
