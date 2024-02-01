@@ -6,7 +6,7 @@
 ## Directory structure
 
 ```bash
-./
+.
 ├── .dockerignore
 ├── .env
 ├── .gitignore
