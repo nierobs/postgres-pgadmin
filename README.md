@@ -22,14 +22,14 @@ $ docker compose up -d
 
 **Base URL:** http://localhost:5050  
 **Email:** admin@admin.com  
-**Password:** pass
+**Password:** 123456
 
 ### Postgres
 
 **Host name:** localhost  
 **Port:** 5432  
-**Username:** admin  
-**Password:** pass
+**Username:** postgres  
+**Password:** pg123
 
 ## 4. Stop and remove containers and images
 
