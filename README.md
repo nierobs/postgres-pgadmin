@@ -1,7 +1,7 @@
 # PostgreSQL
 
 **Author:** Robson Niemeyer  
-**Repository:** [https://github.com/nierobs/postgres-pgadmin](https://github.com/nierobs/postgres-pgadmin)
+**Repository:** [github.com/nierobs/postgres-pgadmin](https://github.com/nierobs/postgres-pgadmin)
 
 ## 1. Before building the containers
 
